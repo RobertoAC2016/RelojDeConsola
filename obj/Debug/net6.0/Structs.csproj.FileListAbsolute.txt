@@ -1,0 +1,15 @@
+D:\RAC\NET\Structs\bin\Debug\net6.0\Structs.exe
+D:\RAC\NET\Structs\bin\Debug\net6.0\Structs.deps.json
+D:\RAC\NET\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+D:\RAC\NET\Structs\bin\Debug\net6.0\Structs.dll
+D:\RAC\NET\Structs\bin\Debug\net6.0\Structs.pdb
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.dll
+D:\RAC\NET\Structs\obj\Debug\net6.0\refint\Structs.dll
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.pdb
+D:\RAC\NET\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+D:\RAC\NET\Structs\obj\Debug\net6.0\ref\Structs.dll
